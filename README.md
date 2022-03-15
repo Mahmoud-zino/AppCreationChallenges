@@ -12,7 +12,7 @@ This is a challenge series, where I challenge myself to create different applica
 * android:
   * kotlin
   * java
-  * C++
+  * xamarin
   * flutter
   * react native
 * website:
